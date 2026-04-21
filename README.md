@@ -1,24 +1,24 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=180&section=header&text=Gabriela%20Gomes&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <b>📱 Desenvolvedora Mobile • 🌐 Desenvolvedora Full Stack</b>
+  <b>📱 Mobile Developer • 🌐 Full Stack Developer</b>
 </p>
 
 <p align="center">
-  Construindo aplicações modernas com foco em performance, arquitetura escalável e excelente experiência do usuário.
+  Building modern applications focused on performance, scalable architecture and great user experience.
 </p>
 
 ---
 
-## ✨ Sobre mim
+## ✨ About Me
 <p>
-Desenvolvedora focada em aplicações mobile e web, com experiência em desenvolvimento full stack e construção de soluções completas.
-Busco criar produtos bem estruturados, com código limpo, boas práticas e foco em impacto real.
+Mobile and web developer with experience in full stack development and building end-to-end solutions.  
+Focused on creating well-structured products with clean code, best practices and real-world impact.
 </p>
 
 ---
 
-## 🌐 Contato
+## 🌐 Contact
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielafg1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -33,7 +33,7 @@ Busco criar produtos bem estruturados, com código limpo, boas práticas e foco 
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🚀 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,react,js,html,css,nodejs,express,firebase,docker,graphql&perline=6" />
@@ -41,7 +41,7 @@ Busco criar produtos bem estruturados, com código limpo, boas práticas e foco 
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabrielagomesf&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielagomesf&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -53,44 +53,44 @@ Busco criar produtos bem estruturados, com código limpo, boas práticas e foco 
 
 ---
 
-## 🎯 Projetos em Destaque
+## 🎯 Featured Projects
 
 ### 💼 EliteWorks  
 <p>
-🔗 <a href="https://github.com/Gabrielagomesf/EliteWorks">Repositório</a> • 
+🔗 <a href="https://github.com/Gabrielagomesf/EliteWorks">Repository</a> • 
 🌐 <a href="https://eliteworks.com.br/">Website</a>
 </p>
 
-Plataforma que conecta clientes a profissionais de serviços, permitindo busca, contratação e gerenciamento em um ambiente centralizado.
+Platform that connects clients with service professionals, enabling search, hiring and service management in a centralized environment.
 
-- ⚙️ Arquitetura escalável
-- 🔎 Sistema de busca e conexão entre usuários
-- 📱 Foco em experiência e usabilidade
-- 🔗 Integração completa entre frontend e backend
+- ⚙️ Scalable architecture  
+- 🔎 User search and matching system  
+- 📱 Focus on usability and user experience  
+- 🔗 Full integration between frontend and backend  
 
 ---
 
 ### 🐾 PetMatch  
 <p>
-🔗 <a href="https://github.com/Gabrielagomesf/PetMatch">Repositório</a>
+🔗 <a href="https://github.com/Gabrielagomesf/PetMatch">Repository</a>
 </p>
 
-Plataforma para adoção de animais, permitindo que ONGs cadastrem pets disponíveis e usuários encontrem e adotem de forma simples.
+Platform for pet adoption, allowing NGOs to register animals and users to find and adopt them in a simple and accessible way.
 
-- 🐶 Cadastro de animais para adoção
-- ❤️ Conexão entre ONGs e adotantes
-- 🌍 Projeto com impacto social
-- 📱 Interface intuitiva e acessível
+- 🐶 Animal registration for adoption  
+- ❤️ Connection between NGOs and adopters  
+- 🌍 Social impact project  
+- 📱 Intuitive and accessible interface  
 
 ---
 
-## 📚 Em evolução
+## 📚 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/Clean%20Architecture-008080?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/State%20Management-4B0082?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CI/CD-FF7F50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Arquiteturas%20Reativas-20B2AA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reactive%20Architectures-20B2AA?style=for-the-badge"/>
 </p>
 
 ---
