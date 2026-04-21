@@ -1,92 +1,98 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=140&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=180&section=header&text=Gabriela%20Gomes&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">Gabriela Gomes</h1>
-<h3 align="center">📱 Mobile Developer • 🌐 Full Stack Junior</h3>
+<p align="center">
+  <b>📱 Desenvolvedora Mobile • 🌐 Desenvolvedora Full Stack</b>
+</p>
+
+<p align="center">
+  Construindo aplicações modernas com foco em performance, arquitetura escalável e excelente experiência do usuário.
+</p>
 
 ---
 
-## 🌐 Connect with me
-<div align="center">
-  <a href="https://www.instagram.com/gabrielafgm/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+## ✨ Sobre mim
+<p>
+Desenvolvedora focada em aplicações mobile e web, com experiência em desenvolvimento full stack e construção de soluções completas.
+Busco criar produtos bem estruturados, com código limpo, boas práticas e foco em impacto real.
+</p>
+
+---
+
+## 🌐 Contato
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielafg1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:goomes.016@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabrielafg1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <a href="https://www.instagram.com/gabrielafgm/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+</p>
+
+---
+
+## 🚀 Stack Tecnológico
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,react,js,html,css,nodejs,express,firebase,docker,graphql&perline=6" />
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabrielagomesf&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielagomesf&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrielagomesf&theme=tokyonight" width="95%" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabrielagomesf&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" width="95%" />
-</div>
-
----
-
-
-## 🚀 Main Skills
-<div align="center">
-
-### 📱 Mobile & Cross-Platform
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-
-### ⚙️ Backend & Infrastructure
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabrielagomesf&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-## 📚 Currently Learning (Mobile & Advanced)
-<div align="center">
+## 🎯 Projetos em Destaque
 
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
-![Kotlin Coroutines](https://img.shields.io/badge/-Coroutines-7F52FF?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
-![State Management](https://img.shields.io/badge/-State%20Management-4B0082?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
-![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-008080?style=for-the-badge&logo=book&logoColor=white)&nbsp;
-![CI/CD Mobile](https://img.shields.io/badge/-CI/CD-FF7F50?style=for-the-badge&logo=bitrise&logoColor=white)&nbsp;
-![Reactive Architectures](https://img.shields.io/badge/-Reactive%20Arch-20B2AA?style=for-the-badge&logo=reactivex&logoColor=white)&nbsp;
+### 💼 EliteWorks  
+<p>
+🔗 <a href="https://github.com/Gabrielagomesf/EliteWorks">Repositório</a> • 
+🌐 <a href="https://eliteworks.com.br/">Website</a>
+</p>
 
-</div>
+Plataforma que conecta clientes a profissionais de serviços, permitindo busca, contratação e gerenciamento em um ambiente centralizado.
 
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[PulseFlow — Mobile App](https://github.com/Gabrielagomesf/PulseFlow-APP)  
-📱 A modern healthcare mobile app (Flutter), designed for Android & iOS, with backend integration and advanced UI/UX.  
-![PulseFlow Mobile](https://img.shields.io/badge/View-Mobile%20App-017EFA?style=for-the-badge&logo=flutter&logoColor=white)
-
-[PulseFlow — Web Frontend](https://github.com/mariaeduardacpb/PulseFlow-VII)  
-💻 Responsive web version of PulseFlow, featuring a clean design and full integration with the mobile app.  
-![PulseFlow Web](https://img.shields.io/badge/View-Web-00C9A7?style=for-the-badge&logo=react&logoColor=white)
-
-</div>
+- ⚙️ Arquitetura escalável
+- 🔎 Sistema de busca e conexão entre usuários
+- 📱 Foco em experiência e usabilidade
+- 🔗 Integração completa entre frontend e backend
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=140&section=footer"/>
+### 🐾 PetMatch  
+<p>
+🔗 <a href="https://github.com/Gabrielagomesf/PetMatch">Repositório</a>
+</p>
+
+Plataforma para adoção de animais, permitindo que ONGs cadastrem pets disponíveis e usuários encontrem e adotem de forma simples.
+
+- 🐶 Cadastro de animais para adoção
+- ❤️ Conexão entre ONGs e adotantes
+- 🌍 Projeto com impacto social
+- 📱 Interface intuitiva e acessível
+
+---
+
+## 📚 Em evolução
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-008080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/State%20Management-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CI/CD-FF7F50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arquiteturas%20Reativas-20B2AA?style=for-the-badge"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=140&section=footer"/>
